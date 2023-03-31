@@ -29,7 +29,7 @@ body {
 <body>
 	<div class="">
 
-		<h1>Hello World!</h1>
+		<h1>Welcome to my Website!</h1>
 		<a class="button " href="/ConnectMySql/list">List Of Students</a>
 		<p>This is the homepage!</p>
 	</div>

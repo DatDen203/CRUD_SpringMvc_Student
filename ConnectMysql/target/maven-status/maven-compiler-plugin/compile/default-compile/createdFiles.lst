@@ -1,9 +1,9 @@
+Test\ConnectMySql\config\MvcConfiguration.class
+Test\ConnectMySql\controller\HomeController.class
 DAO\StudentDao.class
-Test\ConnetcMysql\config\MvcConfiguration.class
-Test\ConnetcMysql\controller\HomeController.class
 ConnectSql\MySql.class
-Test\ConnetcMysql\controller\DeleteStudent.class
-Test\ConnetcMysql\controller\ListStudentServlet.class
+Test\ConnectMySql\controller\AddStudent.class
+Test\ConnectMySql\controller\ListStudentServlet.class
 Models\StudentDTO.class
-Test\ConnetcMysql\controller\AddStudent.class
-Test\ConnetcMysql\controller\UpdateStudent.class
+Test\ConnectMySql\controller\UpdateStudent.class
+Test\ConnectMySql\controller\DeleteStudent.class

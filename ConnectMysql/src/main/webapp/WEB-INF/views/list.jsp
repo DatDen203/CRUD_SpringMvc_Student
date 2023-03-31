@@ -7,7 +7,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
-<%@include file="/WEB-INF/css/table.css"%>
+<%@include file="/resources/css/table.css"%>
 </style>
 <script type="text/javascript">
 	function doDelete(id) {

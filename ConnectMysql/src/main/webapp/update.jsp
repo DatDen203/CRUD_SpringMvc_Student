@@ -7,7 +7,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
-<%@include file="/WEB-INF/css/add.css"%>
+<%@include file="/resources/css/add.css"%>
 </style>
 </head>
 <body>
