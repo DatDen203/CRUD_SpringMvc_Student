@@ -7,11 +7,13 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
+
 <%@include file="/resources/css/table.css"%>
+
 </style>
 <script type="text/javascript">
 	function doDelete(id) {
-		if(confirm("are you sure to delete Student with ID="+id)){
+		if(confirm("are you sure to delete Student have ID="+id)){
 			window.location="delete?id="+id;	
 		}
 	}
